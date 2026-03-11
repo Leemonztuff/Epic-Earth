@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Wesnoth Terrain Engine",
+  "description": "A Battle for Wesnoth inspired terrain engine with flat-top hex grid, autotiling, and overlays.",
+  "requestFramePermissions": []
+}
